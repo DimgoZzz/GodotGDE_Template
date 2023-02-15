@@ -1,0 +1,10 @@
+
+.sconsign.dblite
+
+.vscode/
+
+*.obj
+
+project/bin/**/*.dll
+project/bin/**/*.exp
+project/bin/**/*.lib
